@@ -9,3 +9,8 @@
 * `git add README.md`
 * `git commit -m "Add README"`
 * `git push -u origin`
+* `git add .`
+* `git commit -m "Fix extra accesibility issues"`
+* `git add .`
+* `git commit -m "Update README"`
+* `git push`
